@@ -1,14 +1,8 @@
-# 🤖 AI 编程小助手 - LangChain4j 实战项目
+AI 编程小助手 - LangChain4j 实战项目
 
 > 基于 LangChain4j + 通义千问的 AI 智能编程学习与求职辅导机器人
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.3.4-4FC08D.svg)](https://vuejs.org/)
-[![LangChain4j](https://img.shields.io/badge/LangChain4j-1.1.0-blue.svg)](https://github.com/langchain4j/langchain4j)
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
-
-
-## ✨ 项目介绍
+ 项目介绍
 
 ### 定位
 - 编程学习导师: 提供清晰的学习路线规划和个性化建议
