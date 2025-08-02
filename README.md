@@ -1,1 +1,56 @@
-# AI-code-helper
+# 🤖 AI 编程小助手 - LangChain4j 实战项目
+
+> 基于 LangChain4j + 通义千问的 AI 智能编程学习与求职辅导机器人
+
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.3.4-4FC08D.svg)](https://vuejs.org/)
+[![LangChain4j](https://img.shields.io/badge/LangChain4j-1.1.0-blue.svg)](https://github.com/langchain4j/langchain4j)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
+
+
+## ✨ 项目介绍
+
+### 定位
+- 编程学习导师: 提供清晰的学习路线规划和个性化建议
+- 求职面试助手: 涵盖简历优化、面试技巧、高频题目解析
+- 代码答疑专家: 实时解答编程技术问题，提供代码示例
+
+### 技术
+
+#### AI 服务
+- **LangChain4j集成**: 采用业界领先的AI应用开发框架
+- **通义千问模型**: 基于阿里云大模型，专业可靠
+- **流式响应**: 实时打字机效果，提升用户体验
+
+#### 安全机制
+- **输入安全防护**: 检测敏感内容，确保应用安全
+
+#### 工具集成
+- **RAG检索增强**: 结合本地知识库，提供精准答案
+- **MCP协议支持**: 模型上下文协议，增强AI能力
+- **面试题搜索**: 实时抓取最新面试题目
+- **Web爬虫工具**: 获取实时技术资讯
+
+
+### 环境要求
+
+- **Java**: JDK 21+
+- **Node.js**: 16.0+
+- **Maven**: 3.6+
+- **通义千问API**: 需申请API密钥
+- **Big Model API**: 需申请API密钥
+
+
+## 核心模块
+
+- `AiCodeHelperService`: 核心对话服务
+- `QwenChatModelConfig`: 模型配置管理
+- `RagConfig`: 检索增强配置
+- `McpConfig`: 模型上下文协议
+
+- `InterviewQuestionTool`: 面试题搜索
+- `SafeInputGuardrail`: 输入安全防护
+- `ChatModelListener`: 对话监听器
+
+
+
